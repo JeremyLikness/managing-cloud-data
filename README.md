@@ -29,6 +29,7 @@ This is the demo walkthrough and resource for the presentation, "Managing Data i
 ## Blob Storage Demo
 
 👩‍🎓👨‍🎓 [Learn about blob storage](https://jlik.me/fto)
+
 Start with the account created in the previous step.
 
 1. Create a container named "images"
