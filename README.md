@@ -43,14 +43,16 @@ Start with the account created in the previous step.
 9. Begin process to upload `assets\AzureStorageBlob`
 10. Open "Advanced"
 11. Type `icons` in "Uploaded to folder"
-12. Navigate into `icons`
-13. Show the blob properties
-14. Explain "[acquire lease](https://jlik.me/ftr)"
-15. Acquire and break the lease
-16. Copy the URL
-17. Open in an "in private" or "incognito" window
-18. Go to access policies (Blob level)
-19. Show [role assignment example](https://jlik.me/fts)
+12. Upload the file
+13. Navigate into `icons`
+14. Show the blob properties
+15. Explain "[acquire lease](https://jlik.me/ftr)"
+16. Acquire and break the lease
+17. Copy the URL
+18. Open in an "in private" or "incognito" window
+19. Paste the link and show the image
+20. Go to access policies (Blob level)
+21. Show [role assignment example](https://jlik.me/fts)
 
 ## Write to Blob Storage
 
