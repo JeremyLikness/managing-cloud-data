@@ -1,6 +1,8 @@
 # Managing Data in the Cloud
 
-This is the demo walkthrough and resource for the presentation, "Managing Data in the Cloud."
+This is the demo walkthrough and resource for the presentation, "[Managing Data in the Cloud](https://jlikme.blob.core.windows.net/presentations/Likness-ManagingCloudData-DotNetSouth.pptx)."
+
+🔗 Download the PowerPoint presentation [here](https://jlikme.blob.core.windows.net/presentations/Likness-ManagingCloudData-DotNetSouth.pptx).
 
 ## Pre-requisites
 
